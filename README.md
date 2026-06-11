@@ -1,12 +1,29 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHEIKABDULLAH4/SHEIKABDULLAH4/main/images/devops-banner.png" alt="Sheik Abdullah DevOps Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/SHEIKABDULLAH4/SHEIKABDULLAH4/main/images/devops-banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sheik Abdullah M</h1>
 
-<h3 align="center">DevOps Engineer | AWS Cloud | CI/CD | Kubernetes | Terraform</h3>
+<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Jenkins</h3>
 
-Motivated DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, and Linux. Passionate about automation, cloud infrastructure, and CI/CD pipeline development.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheik-abdullah01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+  </a>
+  <a href="mailto:sheikabdullahm2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red">
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 Learning DevOps & AWS
+- 🔭 ideas on CI/CD, Kubernetes & Terraform Projects
+- 💻 Linux, Git, Jenkins, Docker, Kubernetes
+- ☁️ AWS Cloud Enthusiast
+- 🎯 Looking for DevOps Engineer Opportunities
 
 ---
 
