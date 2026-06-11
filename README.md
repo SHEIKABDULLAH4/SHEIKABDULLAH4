@@ -2,12 +2,12 @@
   <img src="images/ChatGPT Image Jun 11, 2026, 03_35_00 PM.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sheik Abdullah M</h1>
+<h1 align="left">Hi 👋, I'm Sheik Abdullah M</h1>
 
-<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Jenkins</h3>
+<h3 align="left">DevOps Engineer | AWS | Docker | Kubernetes | Jenkins</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sheik-abdullah01">
+<p align="left">
+  <a href="https://www.linkedin.com/in/sheik-abdullah-devops">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue">
   </a>
   <a href="mailto:sheikabdullahm2003@gmail.com">
